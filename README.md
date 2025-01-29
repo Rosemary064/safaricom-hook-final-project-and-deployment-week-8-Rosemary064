@@ -17,3 +17,4 @@ Implementing a smooth checkout process required handling JavaScript event listen
 Ensuring the website remained responsive across screen sizes involved fine-tuning CSS grid and flexbox layouts.
 ## Deployment Process
 The website was deployed on Netlify, with code hosted on GitHub for version control and future updates.
+## lustrous-cat-a4cf5a.netlify.app
